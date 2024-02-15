@@ -1,12 +1,9 @@
 # TheSocialNetwork
 
-# A Simple Guide to URL Regex
-
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This program was developed to teach the user about Regular expressions of a URL.
+This API was designed to create users that can interact with eachother as well as add each other as friends.
 
 # Table of Contents 
 * [Installation](##-Installation)
