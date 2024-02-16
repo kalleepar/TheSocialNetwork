@@ -1,4 +1,4 @@
-# TheSocialNetwork
+# The Social Network
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -12,12 +12,15 @@ This API was designed to create users that can interact with eachother as well a
 * [Contributing](##-Contributing)
 * [Tests](##-Tests)
 * [Questions](##-Contact-Information)
+
+Video Demo:
+https://drive.google.com/file/d/1c-qSkEMEXeb2XHq7yo6eo19gzfwa4cio/view
   
 ## Installation
-none!
+MongoDB, Insomnia, Express, and Mongoose were used to develop this program.
 
 ## Usage
-Open the Develop folder and read the file.
+Run, npm install in the terminal. Next, run npm start to launch server.
 
 ## License 
 MIT
@@ -27,7 +30,7 @@ Kalleepar at:
 https://github.com/kalleepar/TheSocialNetwork
 
 ## Tests
-
+RUN WITH DEV
 
 ## Contact Information 
 * GitHub Username: Kalleepar
